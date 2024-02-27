@@ -19,3 +19,16 @@
         - PTA 练习答案
         - PPT（option）
         - 章节小测
+# 参考资料
+- 课程教材：
+    - [1]曾海 《数据结构（第四版）》
+
+- 参考教材：
+    - [1]Thomas H. Cormen *Introduction to Algorithm 4th*
+    - [2]严蔚敏《数据结构（C语言版）》
+    - [3]程杰《大话数据结构》
+
+- 网络资源：
+    - [1]中国大学MOOC - 数据结构 浙江大学 https://www.icourse163.org/course/ZJU-93001
+
+    - [2]Coursera - 数据结构基础 北京大学 张铭 https://www.coursera.org/learn/shuju-jiegou-suanfa
