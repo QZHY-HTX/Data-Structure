@@ -5,8 +5,8 @@
 - 学生应注册自己的 Github 帐户并能够向本仓库提交 PR 或 issue（具体的操作指南请参考Google或Baidu搜索）
 
 - 课程作业通过 PTA 进行考核，请同学自行注册 PTA 进行用户组绑定。
-    - 软件技术 1 班绑定连接：https://pintia.cn/home/bindings?k=034462&c=qzoi
-    - 软件技术 2 班绑定链接：https://pintia.cn/home/bindings?k=077431&c=qzoi
+    - 软件技术 231 班绑定连接：https://pintia.cn/home/bindings?k=034462&c=qzoi
+    - 软件技术 232 班绑定链接：https://pintia.cn/home/bindings?k=077431&c=qzoi
 - 本课程平时成绩占50%，期末成绩占50%
     - 平时成绩由课堂表现和作业完成情况组成：
         - 每缺一次作业，扣 2 分；
