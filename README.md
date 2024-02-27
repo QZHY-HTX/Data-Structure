@@ -3,6 +3,9 @@
 
 # 课程要求
 - 掌握 C 语言基础（或其他程序语言基础）
+    - 菜鸟教程 C 语言：https://www.runoob.com/cprogramming/c-tutorial.html
+    - 阮一峰 C 语言入门教程：https://wangdoc.com/clang/
+    - 互联网上还有很多优秀的视频课程，请自主学习并掌握
 
 - 学生应注册自己的 Github 帐户并能够向本仓库提交 PR 或 issue（具体的操作指南请参考Google或Baidu搜索）
 
