@@ -7,6 +7,9 @@
     - 阮一峰 C 语言入门教程：https://wangdoc.com/clang/
     - 互联网上还有很多优秀的视频课程，请自主学习并掌握
 
+- 提前完成 Visual Studio Code + C 环境配置：
+    - 可参考知乎：https://zhuanlan.zhihu.com/p/354400717
+
 - 学生应注册自己的 Github 帐户并能够向本仓库提交 PR 或 issue（具体的操作指南请参考Google或Baidu搜索）
 
 - 课程作业通过 PTA 进行考核，请同学自行注册 PTA 进行用户组绑定。
