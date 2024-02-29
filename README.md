@@ -30,13 +30,7 @@
         - 每旷课一次，扣 10 分。
     - 平时成绩查询网址：http://check.thallo.world/ [仅校园网可访问]
         - 欢迎对该网址进行反馈，反馈渠道请直接提交仓库 issue：https://github.com/QZHY-HTX/Data-Structure/issues
-- 课程仓库
-    - ch：章节
-        - 章节要点
-        - 课后习题答疑
-        - PTA 练习答案
-        - PPT（option）
-        - 章节小测
+        
 # 参考资料
 - 课程教材：
     - [1]曾海 《数据结构（第四版）》
