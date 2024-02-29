@@ -9,6 +9,14 @@
 
 - 提前完成 Visual Studio Code + C 环境配置：
     - 可参考知乎：https://zhuanlan.zhihu.com/p/354400717
+    - **详细流程**
+        - 下载 mingw64[在软件资源中请下载] 并配置环境变量
+        - 安装 C/C++ 拓展
+        - 安装 Code Runner 拓展
+            - 首选项——>设置——>Run Code Configuration：勾选Run In Termial 和 Save File Before Run
+        - 重启 VSCode 并新建文件夹编写 Hello.c 文件
+        - Terminal ——> Configure Tasks ——>C/C++: gcc.exe
+        - 在 Hello.c 文件中右键 Run Code 即可成功
 
 - 学生应注册自己的 Github 帐户并能够向本仓库提交 PR 或 issue（具体的操作指南请参考Google或Baidu搜索）
 
