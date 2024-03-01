@@ -10,7 +10,7 @@
 - 提前完成 Visual Studio Code + C 环境配置：
     - 可参考知乎：https://zhuanlan.zhihu.com/p/354400717
     - **详细流程**
-        - 下载 mingw64[在软件资源中请下载] 并配置环境变量
+        - 下载 mingw64[**在软件资源中请下载**] 并配置环境变量
         - 安装 C/C++ 拓展
         - 安装 Code Runner 拓展
             - 首选项——>设置——>Run Code Configuration：勾选Run In Termial 和 Save File Before Run
