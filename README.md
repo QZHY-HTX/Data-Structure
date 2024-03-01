@@ -42,6 +42,8 @@
 
 - 网络资源：
     - [1]中国大学MOOC - 数据结构 浙江大学 https://www.icourse163.org/course/ZJU-93001
-
     - [2]Coursera - 数据结构基础 北京大学 张铭 https://www.coursera.org/learn/shuju-jiegou-suanfa
 
+- 在线测评：
+    - [1]LeetCode https://leetcode.cn/
+    - [2]北京大学 Online Judge http://poj.org/
