@@ -1,5 +1,5 @@
 #include <stdio.h>
-Sum1(int n)
+int Sum1(int n)
 {
     int p = 1, sum = 0, m;
     for (m = 1; m <= n; m++)
@@ -9,7 +9,7 @@ Sum1(int n)
     }
     return (sum);
 }
-Sum2(int n)
+int Sum2(int n)
 {
     int sum = 0, p, m, t;
     for (m = 1; m <= n; m++)
@@ -21,7 +21,7 @@ Sum2(int n)
     }
     return (sum);
 }
-fact(int n)
+int fact(int n)
 {
     if (n <= 1)
         return (1);
