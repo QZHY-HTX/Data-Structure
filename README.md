@@ -27,7 +27,9 @@
     - 平时成绩由课堂表现和作业完成情况组成：
         - 每缺一次作业，扣 2 分；
         - 每迟到一次，扣 1 分；
-        - 每旷课一次，扣 10 分。
+        - 每旷课一次，扣 10 分；
+        - 积极提问（issue 和 pr 经常提交），review accept 的，加 1 分；
+        - 完成提高题，加 1 分。
     - 平时成绩查询网址：http://check.thallo.world/ [仅校园网可访问]
         - 欢迎对该网址进行反馈，反馈渠道请直接提交仓库 issue：https://github.com/QZHY-HTX/Data-Structure/issues
         
