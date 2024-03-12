@@ -95,18 +95,18 @@ int main() {
     status = ListInsert(&L, 3, 30);  
     PrintList(L); // 输出：10 20 30  
   
-    // 删除元素  
-    status = ListDelete(&L, 2, &e);  
-    if (status == OK) {  
-        printf("删除的元素是：%d\n", e); // 输出：删除的元素是：20  
-    }  
-    PrintList(L); // 输出：10 30  
+    // // 删除元素  
+    // status = ListDelete(&L, 2, &e);  
+    // if (status == OK) {  
+    //     printf("删除的元素是：%d\n", e); // 输出：删除的元素是：20  
+    // }  
+    // PrintList(L); // 输出：10 30  
   
-    // 读取元素  
-    status = GetElem(L, 2, &e);  
-    if (status == OK) {  
-        printf("读取的元素是：%d\n", e); // 输出：读取的元素是：30  
-    }  
+    // // 读取元素  
+    // status = GetElem(L, 2, &e);  
+    // if (status == OK) {  
+    //     printf("读取的元素是：%d\n", e); // 输出：读取的元素是：30  
+    // }  
   
     return 0;  
 }
